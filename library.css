@@ -1,0 +1,38 @@
+/* CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Setting up the body - background - colors
+https://www.w3schools.com/cssref/css_colors.asp  */
+
+
+
+/* Box Model [CONTENT - PADDING - BORDER - MARGIN]
+Content: my text or image appear here
+Padding: the area between the Border and the Content
+Border
+Margin: the space outside of the border */
+div {
+    width: 400px;
+    border: 7px solid tan;
+    padding: 50px;
+    margin: 20px;
+    background-color: lightblue;
+}
+
+
+
+
+
+/* CSS reset */
+/* CSS reset */
+/* CSS reset */
+/* CSS reset */
+/* CSS reset */
+/* CSS reset */
+/* CSS reset */
+/* CSS reset */
